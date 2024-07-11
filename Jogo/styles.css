@@ -75,13 +75,13 @@ footer {
 /* Animations */
 @keyframes neon {
     0% {
-        text-shadow: 0 0 40px #ff3aef, 0 0 50px #ff3aef, 0 0 60px #ff3aef;
+        text-shadow: 0 0 20px #ff3aef, 0 0 30px #ff3aef, 0 0 40px #ff3aef;
     }
     50% {
         text-shadow: 0 0 50px #ff3aef, 0 0 60px #ff3aef, 0 0 70px #ff3aef;
     }
     100% {
-        text-shadow: 0 0 40px #ff3aef, 0 0 50px #ff3aef, 0 0 60px #ff3aef;
+        text-shadow: 0 0 20px #ff3aef, 0 0 30px #ff3aef, 0 0 40px #ff3aef;
     }
 }
 
